@@ -17,3 +17,9 @@ Para evitar este problema, la fuente `Graffiti.flf` se ha descargado y almacenad
 ``` javascript
 figlet.defaults({ fontPath: 'fonts/' });
 figlet.preloadFonts([font], initTerminal);
+```
+#### Fuentes para descargar en formato .flf:
+- https://app.unpkg.com/figlet@1.8.0/files/fonts
+- https://unpkg.com/figlet@1.8.0/fonts/Graffiti.flf
+#### Actualización de librerías:
+- https://www.jsdelivr.com/package/npm/figlet
