@@ -1,3 +1,7 @@
+## Una terminal interactiva que documenta un perfil profesional. 
+
+### Basándome en la publicación de <a>https://www.freecodecamp.org/news/how-to-create-an-interactive-terminal-portfolio-website/</a>, implemento conceptos de JavaScript que me permiten construir y renderizar la aplicación, utilizando diversas librerías para lograr una estética atractiva.
+
 ![image](https://github.com/user-attachments/assets/cb424843-cb4e-4697-9e85-6935b9e0e3a0)
 
 ![image](https://github.com/user-attachments/assets/efb7c828-acd3-4eb4-817f-a218cb160067)
