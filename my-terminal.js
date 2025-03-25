@@ -5,7 +5,7 @@ $(document).ready(function () {
     let cwd = root;
 
     // Cargar fuente Figlet antes de inicializar la terminal
-    figlet.defaults({ fontPath: 'https://unpkg.com/figlet/fonts/' });
+    figlet.defaults({ fontPath: 'fonts/' });
     figlet.preloadFonts([font], initTerminal);
 
     // Lista de comandos disponibles
